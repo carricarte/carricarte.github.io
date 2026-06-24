@@ -29,8 +29,8 @@ jobs:
         run: |
           cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
           if [ -z "$cv_file" ]; then
-            echo "No cv.yml file found!"
-            exit 1
+            echo "No cv.yml file found, skipping render."
+            exit 0
           fi
           rendercv_dir=$(find assets -maxdepth 1 -type d -name "rendercv")
           if [ -z "$rendercv_dir" ]; then
