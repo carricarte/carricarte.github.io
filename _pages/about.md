@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist — Generative AI at <a href='https://oncobrain.com'>OncoBrain</a>. PhD in Computational Neuroscience.
+subtitle: Data Scientist — Generative AI at <a href='https://oncobrain.ai/'>OncoBrain</a>. PhD in Computational Neuroscience.
 
 profile:
   align: right
