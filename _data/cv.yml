@@ -1,167 +1,117 @@
 cv:
-  name: Albert Einstein
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Tony Carricarte
+  email: tcarricarte@gmail.com
+  location: USA
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: carricarte
     - network: LinkedIn
-      username: example
+      username: carricarte
 
   sections:
     Summary:
-      - A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time.
-
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        degree: PhD
-        start_date: 1900
-        end_date: 1905
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        degree: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - Data Scientist specializing in Generative AI and RAG systems, with a PhD in Computational Neuroscience and a track record of shipping end-to-end ML pipelines in research and production.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: OncoBrain
+        position: Data Scientist — Generative AI
+        location: USA
+        start_date: 2026
         highlights:
-          - Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center).
-          - Relativity
-          - Description 2.
+          - Designed and deployed a RAG system for clinical decision support in oncology, delivering evidence-based, contextually grounded treatment recommendations.
+          - Engineered a retrieval evaluation framework benchmarking full-text, vector, hybrid, and reranked-hybrid search strategies across quality and latency metrics.
+          - Built and maintained ETL pipelines ingesting multiple oncology guideline sources, resolving integration and runtime failures to improve data reliability and metadata quality.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Neuromatch Impact Scholar Program
+        position: Scholar
+        location: Germany
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed a representational learning framework for medical image segmentation using a transformer-based architecture (SAM).
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
+      - company: Free University of Berlin
+        position: Teaching Assistant
         location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
+        start_date: 2023
+        end_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Taught "Programming Foundations for Psychological Science" to undergraduate psychology students.
+          - Designed course materials covering object-oriented programming and core data-science libraries in Python.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        date: 1921-11-01
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Free University of Berlin
+        position: Research Scientist
+        location: Berlin, Germany
+        start_date: 2020
+        end_date: 2025
+        highlights:
+          - Conducted deep-learning research on human object vision using CNNs, time-series EEG, and ultra-high-resolution neuroimaging, resulting in two peer-reviewed publications.
+          - Developed scalable, HPC-based processing pipelines for large MRI datasets using Python and Linux clusters.
+          - Investigated tokenization approaches in LLMs to improve transfer learning for sentiment classification.
+          - Led international collaborations across academic institutions, communicating complex modeling results to interdisciplinary teams.
+          - Supervised one intern on modeling and data-analysis techniques.
 
-      - title: Max Planck Medal
-        date: 2029
-        summary: Awarded for outstanding scientific achievement
+    Education:
+      - institution: Free University of Berlin
+        location: Berlin, Germany
+        area: Computational Neuroscience
+        degree: PhD
+        start_date: 2020
+        end_date: 2025
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - institution: Universities of Göttingen and Bordeaux
+        location: Germany / France
+        area: Neuroscience (Joint MSc)
+        degree: MSc
+        start_date: 2017
+        end_date: 2019
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - institution: University of Havana
+        location: Havana, Cuba
+        area: Biology
+        degree: BSc
+        start_date: 2010
+        end_date: 2015
+        highlights:
+          - Summa cum laude
 
     Skills:
-      - label: Physics
-        details: Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation
+      - label: AI Engineering
+        details: Python, PyTorch, Pandas, NumPy, Scikit-learn, LanceDB, LangChain, Git, FastAPI, SQL, Claude Code
+      - label: AI Modeling
+        details: LLMs, RAG, Vision Transformers, Representational learning, Feature extraction, Classification, Regression, A/B testing, Fine-tuning, XGBoost, End-to-end training and validation, CI/CD pipelines
 
     Languages:
-      - label: German
-        details: Native speaker
-
+      - label: Spanish
+        details: Native
       - label: English
         details: Fluent
+      - label: German
+        details: Fluent
 
-    Interests:
-      - label: Physics
-        details: Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation
+    Awards:
+      - title: Einstein Center for Neurosciences Graduation Scholarship
+        date: 2024
+        summary: "10,800 €"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: Einstein Center for Neurosciences PhD Fellowship
+        date: 2019
+        summary: "63,000 € (2019–2022)"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: Erasmus Mundus Joint Master Degree Scholarship
+        date: 2017
+        summary: "49,000 € (2017–2019)"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Publications:
+      - title: Layer-specific spatiotemporal dynamics of feedforward and feedback in human visual object perception
+        authors:
+          - Carricarte T et al.
+        journal: eLife
+        date: 2026
 
-    Projects:
-      - name: Quantum Computing
-        date: 2018-01-01
-        highlights:
-          - Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation.
-          - Quantum Teleportation
-          - Quantum Cryptography
-
-    References:
-      - name: Professor John Doe
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Laminar dissociation of feedforward and feedback in high-level ventral visual cortex during imagery and perception
+        authors:
+          - Carricarte T et al.
+        journal: iScience
+        date: 2024
