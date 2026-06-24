@@ -24,6 +24,8 @@ I'm a Data Scientist focused on Generative AI, currently building RAG systems an
 
 My background spans computational neuroscience, deep learning, and AI engineering. During my PhD at the Free University of Berlin, I conducted deep-learning research on human visual object perception using CNNs, time-series EEG, and ultra-high-resolution neuroimaging — resulting in two peer-reviewed publications. I also worked with LLMs to improve transfer learning for sentiment classification and developed scalable HPC pipelines for large MRI datasets.
 
-I'm fluent in Python and comfortable across the full ML stack: from data ingestion and ETL to model training, evaluation, and deployment with FastAPI. I care about rigorous evaluation — building frameworks to benchmark retrieval strategies across quality and latency metrics, not just shipping models and hoping for the best.
+I'm fluent in Python and comfortable across the full ML stack: from data ingestion and ETL to model training, evaluation, and deployment with FastAPI.
 
-Previously, I was a Neuromatch Impact Scholar developing a transformer-based (SAM) framework for medical image segmentation, and a Teaching Assistant for "Programming Foundations for Psychological Science" at FU Berlin.
+Beyond technical work, I bring strong communication skills developed across roles: teaching programming and data science to undergraduates, supervising a research intern, writing grant applications, and collaborating with interdisciplinary teams across institutions and countries. I speak Spanish natively and am fluent in English and German.
+
+I thrive working independently — my career has taken me from Cuba to Germany to the US, across academia and industry, picking up new domains, tools, and languages along the way. I move fast, learn fast, and deliver.
