@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - carricarte
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - carricarte/DementIA
+  - carricarte/rag_steuer_berater
+  - carricarte/Multiagent_RL
+  - carricarte/Face-Scene_7T-MRI
