@@ -26,6 +26,4 @@ My background spans computational neuroscience, deep learning, and AI engineerin
 
 I'm fluent in Python and comfortable across the full ML stack: from data ingestion and ETL to model training, evaluation, and deployment with FastAPI.
 
-Beyond technical work, I bring strong communication skills developed across roles: teaching programming and data science to undergraduates, supervising a research intern, writing grant applications, and collaborating with interdisciplinary teams across institutions and countries. I speak Spanish natively and am fluent in English and German.
-
-I thrive working independently — my career has taken me from Cuba to Germany to the US, across academia and industry, picking up new domains, tools, and languages along the way. I move fast, learn fast, and deliver.
+I communicate well across disciplines — I've taught, supervised, written grant applications, and led international collaborations. I'm a native Spanish speaker, fluent in English and German. I work independently, adapt quickly, and have built entirely new skills at every step of my career.
