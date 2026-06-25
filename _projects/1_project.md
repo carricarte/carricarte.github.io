@@ -3,7 +3,7 @@ layout: page
 title: DementIA
 description: Multi-agent AI clinical decision support system for dementia care
 importance: 1
-category: healthcare
+category: current
 ---
 
 **DementIA** is an AI-powered clinical decision support system designed to assist clinicians in the diagnosis, staging, and management of dementia. The system uses a multi-agent architecture built with **LangGraph**, where a coordinator agent classifies incoming clinical queries by dementia stage and routes them to specialist sub-agents covering screening, diagnosis, prevention, treatment, and patient care.
