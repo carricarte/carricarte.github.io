@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of research and AI projects spanning computational neuroscience and clinical AI systems.
+description: Research and AI projects.
 nav: true
 nav_order: 3
 display_categories: [current, past]
