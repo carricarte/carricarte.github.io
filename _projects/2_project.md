@@ -3,7 +3,7 @@ layout: page
 title: Layer-Specific Feedforward and Feedback in Visual Object Perception
 description: 7T fMRI + EEG study of cortical layer dynamics during visual object recognition
 importance: 2
-category: research
+category: neuroscience
 related_publications: true
 ---
 

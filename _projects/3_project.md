@@ -3,7 +3,7 @@ layout: page
 title: Laminar Feedforward and Feedback during Imagery and Perception
 description: 7T lamina-resolved fMRI comparing cortical depth profiles during visual imagery and perception
 importance: 3
-category: research
+category: neuroscience
 related_publications: true
 ---
 
