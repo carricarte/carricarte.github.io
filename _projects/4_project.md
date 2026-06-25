@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RAG Steuerberater
+title: Steuerberater
 description: Retrieval-Augmented Generation system for German income tax questions
 importance: 4
 category: past

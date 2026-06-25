@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Layer-Specific Feedforward and Feedback in Visual Object Perception
+title: Layer-specific spatiotemporal dynamics of feedforward and feedback in human visual object perception
 description: 7T fMRI + EEG study of cortical layer dynamics during visual object recognition
 importance: 2
 category: past

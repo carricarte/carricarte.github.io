@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laminar Feedforward and Feedback during Imagery and Perception
+title: Laminar dissociation of feedforward and feedback in high-level ventral visual cortex during imagery and perception
 description: 7T lamina-resolved fMRI comparing cortical depth profiles during visual imagery and perception
 importance: 3
 category: past
