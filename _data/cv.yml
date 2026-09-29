@@ -1,7 +1,7 @@
 cv:
   name: Tony Carricarte
   email: tcarricarte@gmail.com
-  location: USA
+  location: Germany
 
   social_networks:
     - network: GitHub
@@ -11,25 +11,24 @@ cv:
 
   sections:
     Summary:
-      - Data Scientist specializing in Generative AI and RAG systems, with a PhD in Computational Neuroscience and a track record of shipping end-to-end ML pipelines in research and production.
+      - AI Research Engineer working on agentic systems and RAG, with a PhD in Computational Neuroscience and a track record of shipping end-to-end ML pipelines in research and production.
 
     Experience:
+      - company: Nu:legal
+        position: AI Research Engineer
+        location: Germany
+        start_date: 2026-08
+        highlights:
+          - Built the agent harness for a legal AI platform, including tool integration and context management for reliable multi-step workflows.
+
       - company: OncoBrain
         position: Data Scientist — Generative AI
         location: USA
-        start_date: 2026
+        start_date: 2026-02
+        end_date: 2026-07
         highlights:
-          - Designed and deployed a RAG system for clinical decision support in oncology, delivering evidence-based, contextually grounded treatment recommendations.
-          - Engineered a retrieval evaluation framework benchmarking full-text, vector, hybrid, and reranked-hybrid search strategies across quality and latency metrics.
+          - Engineered a retrieval evaluation framework benchmarking full-text, vector, hybrid, and reranked-hybrid search strategies across quality and latency metrics, enabling data-driven selection of retrieval pipelines.
           - Built and maintained ETL pipelines ingesting multiple oncology guideline sources, resolving integration and runtime failures to improve data reliability and metadata quality.
-
-      - company: Neuromatch Impact Scholar Program
-        position: Scholar
-        location: Germany
-        start_date: 2025
-        end_date: 2026
-        highlights:
-          - Developed a representational learning framework for medical image segmentation using a transformer-based architecture (SAM).
 
       - company: Free University of Berlin
         position: Teaching Assistant
@@ -78,7 +77,7 @@ cv:
 
     Skills:
       - label: AI Engineering
-        details: Python, PyTorch, Pandas, NumPy, Scikit-learn, LanceDB, LangChain, Git, FastAPI, SQL, Claude Code
+        details: Python, PyTorch, Pandas, NumPy, Scikit-learn, LanceDB, LangChain, LangGraph, Git, FastAPI, SQL, Claude Code
       - label: AI Modeling
         details: LLMs, RAG, Vision Transformers, Representational learning, Feature extraction, Classification, Regression, A/B testing, Fine-tuning, XGBoost, End-to-end training and validation, CI/CD pipelines
 

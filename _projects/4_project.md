@@ -6,7 +6,7 @@ importance: 4
 category: past
 ---
 
-**RAG Steuerberater** is a bilingual (German/English) question-answering system that helps users navigate German income tax returns (*Steuererklärung*) using only official primary sources. The system retrieves and cites directly from government publications, ensuring every answer is grounded in authoritative legal text rather than general LLM knowledge.
+**RAG Steuerberater** is a bilingual (German/English) question-answering system that helps users navigate German income tax returns (_Steuererklärung_) using only official primary sources. The system retrieves and cites directly from government publications, ensuring every answer is grounded in authoritative legal text rather than general LLM knowledge.
 
 ## Knowledge Base
 
@@ -32,6 +32,6 @@ Documents are chunked at 1,200 characters with 200-character overlap and embedde
 - CLI tools for index management and querying
 - **FastAPI** HTTP server with OpenAPI documentation
 
-> This tool is for informational purposes only and does not constitute legal or tax advice. Always consult a licensed *Steuerberater* for official guidance.
+> This tool is for informational purposes only and does not constitute legal or tax advice. Always consult a licensed _Steuerberater_ for official guidance.
 
 <a href="https://github.com/carricarte/rag_steuer_berater" target="_blank" class="btn btn-sm z-depth-0" role="button">GitHub Repository</a>
