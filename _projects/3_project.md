@@ -25,5 +25,3 @@ These findings provide direct mesoscale evidence that visual imagery is implemen
 ## Publication
 
 {% cite carricarte2024laminar %}
-
-<a href="https://github.com/carricarte/Face-Scene_7T-MRI" target="_blank" class="btn btn-sm z-depth-0" role="button">GitHub Repository</a>
