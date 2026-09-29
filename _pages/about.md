@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist — Generative AI at <a href='https://oncobrain.ai/'>OncoBrain</a>. PhD in Computational Neuroscience.
+subtitle: AI Engineer at nu:legal, previously <a href='https://oncobrain.ai/'>OncoBrain</a>. PhD in Computational Neuroscience.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I'm a Data Scientist focused on Generative AI, currently building RAG systems and retrieval evaluation frameworks for clinical decision support in oncology at OncoBrain.
+I'm an AI Engineer working at the intersection of Generative AI and applied research, currently building the agent harness for legal services at nu:legal. Previously, I built RAG systems and retrieval evaluation frameworks for clinical decision support in oncology at OncoBrain.
 
 My background spans computational neuroscience, deep learning, and AI engineering. During my PhD at the Free University of Berlin, I conducted deep-learning research on human visual object perception using CNNs, time-series EEG, and ultra-high-resolution neuroimaging — resulting in two peer-reviewed publications. I also worked with LLMs to improve transfer learning for sentiment classification and developed scalable HPC pipelines for large MRI datasets.
 
