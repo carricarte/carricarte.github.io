@@ -8,8 +8,3 @@ github_repos:
   - repo: carricarte/rag_steuer_berater
     description: Bilingual RAG system answering German income tax questions from official primary sources.
     language: Python
-  - repo: carricarte/Multiagent_RL
-    language: Jupyter Notebook
-  - repo: carricarte/Face-Scene_7T-MRI
-    description: Lamina-resolved 7T fMRI analysis of visual imagery and perception in FFA and PPA.
-    language: Python
