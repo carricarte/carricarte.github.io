@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I'm an AI Engineer working at the intersection of Generative AI and applied research, currently at <a href="https://caserock.ai/">Caserock</a>. Previously I built the agent harness for legal services at <a href="https://nulegal.eu/en/">nu:legal</a>, and before that I worked at <a href="https://oncobrain.ai/">OncoBrain</a>, building RAG systems and retrieval evaluation frameworks for clinical decision support in oncology.
+I'm an AI Engineer working at the intersection of Generative AI and applied research, currently building the agent harness for legal services at <a href="https://caserock.ai/">Caserock</a>. Previously I worked at <a href="https://oncobrain.ai/">OncoBrain</a>, building RAG systems and retrieval evaluation frameworks for clinical decision support in oncology.
 
 My background spans computational neuroscience, deep learning, and AI engineering. During my PhD at the Free University of Berlin, I conducted deep-learning research on human visual object perception using CNNs, time-series EEG, and ultra-high-resolution neuroimaging — resulting in two peer-reviewed publications. I also worked with LLMs to improve transfer learning for sentiment classification and developed scalable HPC pipelines for large MRI datasets.
 
