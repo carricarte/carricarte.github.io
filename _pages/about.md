@@ -24,6 +24,6 @@ I'm an AI Engineer working at the intersection of Generative AI and applied rese
 
 My background spans computational neuroscience, deep learning, and AI engineering. During my PhD at the Free University of Berlin, I conducted deep-learning research on human visual object perception using CNNs, time-series EEG, and ultra-high-resolution neuroimaging — resulting in two peer-reviewed publications. I also worked with LLMs to improve transfer learning for sentiment classification and developed scalable HPC pipelines for large MRI datasets.
 
-I'm fluent in Python and comfortable across the full ML stack: from data ingestion and ETL to model training, evaluation, and deployment with FastAPI.
+I'm fluent in Python and comfortable across the full ML stack: from data ingestion and ETL to model training, evaluation, and deployment.
 
 I communicate well across disciplines — I've taught, supervised, written grant applications, and led international collaborations. I'm a native Spanish speaker, fluent in English and German. I work independently, adapt quickly, and have built entirely new skills at every step of my career.
